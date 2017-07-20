@@ -1,5 +1,4 @@
 # baba
-Wiki for alibaba cloud users
-
+See Wiki of the repository
 
 
